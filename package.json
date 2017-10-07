@@ -1,0 +1,14 @@
+{
+  "name": "tests-exmaple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests/sum.js && node test/divide.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
